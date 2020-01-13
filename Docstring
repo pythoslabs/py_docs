@@ -1,0 +1,7 @@
+def  say_hello(a):
+  '''Returns Hello appended to the string .''' 
+return  (“Hello” + a )
+
+
+print (say_hello.__doc__) 
+help(say_hello)
